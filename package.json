@@ -1,0 +1,9 @@
+{
+  "name": "yepp",
+  "version": "1.0.0",
+  "description": "social network for programmers",
+  "main": "index.js",
+  "repository": "https://github.com/luanerdy/yepp.git",
+  "author": "luanerdy, raffael-marinho, marcos-wagner, samukaell",
+  "license": "MIT"
+}
